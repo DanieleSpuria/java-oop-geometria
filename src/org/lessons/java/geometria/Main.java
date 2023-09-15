@@ -9,7 +9,7 @@ public class Main {
 		Scanner scan = new Scanner(System.in);
 		
 		for(int i = 1; i <= 3; i++) {
-			System.out.println("\n------Rettangolo " + (i + i) + "------\n");
+			System.out.println("\n------Rettangolo " + i + "------\n");
 			
 			System.out.print("Base: ");
 			int base = scan.nextInt();
